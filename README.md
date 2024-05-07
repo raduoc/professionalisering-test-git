@@ -27,4 +27,4 @@ Zorg ervoor dat de omschrijvingen in het Git log duidelijk zijn. (in het Engels 
 
 ## Indienen
 
-Als je klaar bent voeg je mij (lars-derichter) toe als medewerker en dien je de url van je geforkte repository in op Canvas.
+Als je klaar bent voeg je mij (brmvnml) toe als medewerker en dien je de url van je geforkte repository in op Canvas.
